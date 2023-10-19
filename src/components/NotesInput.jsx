@@ -66,7 +66,7 @@ class NotesInput extends React.Component {
               </label>
               <textarea
                 className="textarea textarea-bordered h-24"
-                placeholder="Bio"
+                placeholder="Isi catatan..."
                 value={this.state.body}
                 onChange={this.onBodyChangeEventHandler}
               ></textarea>
