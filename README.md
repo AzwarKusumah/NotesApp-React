@@ -2,6 +2,13 @@
 
 Buatlah aplikasi web menggunakan React yang dapat menambahkan dan menghapus catatan. Agar lebih jelasnya, berikut 3 kriteria utama pada “Aplikasi Catatan Pribadi” yang harus Anda buat.
 
+## Website View
+
+Tampilan website, menggunakan tailwind dan daisyUI
+
+![Website View](public/webview1.png)
+![Website View](public/webview.png)
+
 ### Kriteria 1: Mampu Menampilkan Daftar Catatan
 
 - Aplikasi harus mampu menampilkan daftar catatan dengan data awal (initial data) yang telah kami sediakan.
@@ -78,8 +85,3 @@ Selain kriteria utama, terdapat kriteria opsional yang yang dapat Anda penuhi ag
 - Aplikasi memiliki fitur arsip catatan.
 - Aplikasi harus menyediakan tombol arsipkan/pindahkan untuk mengarsipkan atau memindahkan catatan dari arsip.
 - Daftar catatan yang diarsip harus ditampilkan pada tempat terpisah dari catatan yang tidak diarsip.
-
-### Website View
-
-![Website View](public/webview1.png)
-![Website View](public/webview.png)
