@@ -81,5 +81,5 @@ Selain kriteria utama, terdapat kriteria opsional yang yang dapat Anda penuhi ag
 
 ### Website View
 
-![Website View](publc/webview1.png)
-![Website View](publc/webview.png)
+![Website View](public/webview1.png)
+![Website View](public/webview.png)
